@@ -40,9 +40,6 @@
 <li>
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
 </li>
-<li>
-<b>Working @:</b> Intave Anticheat
-</li>
 <br><br><br>
 </div>
 <div>
