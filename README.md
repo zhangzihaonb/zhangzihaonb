@@ -26,9 +26,6 @@
 <li>
  <b>Name:</b> Miella</li>
 <li>
-<b>Fursona:</b> Grey Wolf/Snow Fox, sometimes a Bird
-</li>
-<li>
 <b>Loves:</b> anime, osu, rhythm games
 </li>
 <li>
@@ -38,7 +35,7 @@
 <b>LastFM:</b> https://scrobble.egirl.ing
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b> Dev Ops, Writer, Sysadmin
 </li>
 <br><br><br>
 </div>
