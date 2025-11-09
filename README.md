@@ -24,7 +24,7 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Miella</li>
+ <b>Name:</b> Miella Selene</li>
 <li>
 <b>Loves:</b> anime, osu, rhythm games
 </li>
@@ -54,6 +54,7 @@
 There are many more things, but this site doesn't have a Linux badge, 
   so this will do for the meantime.
 </p>
+<br>
 <br>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
